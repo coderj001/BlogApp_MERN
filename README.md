@@ -1,2 +1,1 @@
-## FullStack Blog (MERN)
-
+## Full Stack Blog (MERN)
